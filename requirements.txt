@@ -1,0 +1,6 @@
+numpy>=1.24
+scipy>=1.10
+huggingface_hub>=0.23  # scripts/download_data.py only
+pytest          # unit tests only
+openai>=1.40    # generation/judge_luna.py and generation/rate_luna.py only (OpenAI API)
+httpx>=0.27     # generation/rate_jev.py only (TypeSafe API)

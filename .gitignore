@@ -1,0 +1,9 @@
+# downloaded data (scripts/download_data.py)
+dataset/
+results/features/
+# run rows written by results/bench.py
+results/runs/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store

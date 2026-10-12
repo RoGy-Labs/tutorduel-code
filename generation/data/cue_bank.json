@@ -1,0 +1,21 @@
+{
+ "0": [
+  "This vocabulary is new to me and a formula with no picture is not landing.",
+  "I have never seen one written out with actual numbers.",
+  "I need a line I can quote in an exam.",
+  "I have heard the story version already; I want the real statement."
+ ],
+ "1": [
+  "I already know the rule exists; I just need the working.",
+  "Show me one so I can copy the method.",
+  "I need a write-up I can hand in.",
+  "I need a number I can use, not a lecture.",
+  "I got a different result twice and I cannot see where I go wrong."
+ ],
+ "2": [
+  "I can use it but I do not see why it is allowed.",
+  "I believed this in school; I want to know why it is true.",
+  "I want the actual argument, not another walkthrough.",
+  "I already believe the simple case; I want to know why it holds in general."
+ ]
+}
